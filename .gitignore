@@ -1,0 +1,24 @@
+# 個人情報
+secrets.env
+
+# 一時ファイル
+docs/tmp/*
+
+# 個人情報を含むPDF
+docs/pdf/履歴書.pdf
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
+*.swp
+*.swo
