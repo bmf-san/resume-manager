@@ -1,4 +1,4 @@
-# Resume Template
+# Resume Manager
 
 キャリア資料（履歴書・職務経歴書）をMarkdownで管理し、PDF生成まで自動化するためのテンプレートです。
 
